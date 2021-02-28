@@ -1,0 +1,56 @@
+.container {
+  border: 1px solid black;
+  text-align: center;
+  padding: 13px;
+  width: 65%;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  border-radius: 10px;
+  background-color: floralwhite;
+}
+h3 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: firebrick;
+  border-bottom: 1px solid black;
+  padding: 5px;
+}
+h5 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(19, 50, 107);
+  font-size: medium;
+}
+.allButtons {
+  border: 1px solid rgb(0, 0, 0);
+  padding: 7px;
+  width: fit-content;
+  margin: 0 auto;
+  border-radius: 7px;
+}
+button {
+  height: 40px;
+  width: 40px;
+  margin: 7px;
+  border-radius: 5px;
+  background-color: lightcoral;
+  color: antiquewhite;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: medium;
+}
+table {
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  width: auto;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+button:hover {
+  color: blueviolet;
+  background-color: rgb(247, 235, 191);
+}
+#playAgain {
+  margin: 15px;
+  width: 110px;
+}
